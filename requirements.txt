@@ -3,5 +3,5 @@ Django
 gunicorn
 packaging==23.2
 sqlparse==0.4.4
-typing_extensions0
+typing_extensions
 whitenoise
